@@ -1,13 +1,13 @@
-# java-project1-github-repo-sda
+**This project is the same as the mid project, but it has been improved by adding security.**
+
+
+
+
 **Description of my project**
 
 *"Candle Store" project is an online candle store application built using Spring Boot . It provides users with a platform to view, purchase, and manage candle orders.*
 
 
-
-**Class Diagram**
-
-![Candle_ClassDiagram](https://github.com/ManarAlfarsi/java-project1-github-repo-sda/assets/146036696/9e163178-661a-4f2e-ae7b-168248f6cf69)
 
 
 
@@ -47,11 +47,7 @@ The application has a variety of controllers, each responsible for handling diff
 -OrdersController for handling requests related to orders.
 
 
-**Extra links**
 
--Presentation Link
-
-https://docs.google.com/presentation/d/1DHIh293cnsjpqmni8JsWKTB7tKCHzOS8/edit?usp=sharing&ouid=100635709354277469411&rtpof=true&sd=true
 
 
 
